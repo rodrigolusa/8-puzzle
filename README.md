@@ -1,5 +1,5 @@
 # inteligencia_artifical
-Trabalhos realizados na disciplina de Inteligência Artificial
+Trabalho realizado na disciplina de Inteligência Artificial
 
 # Execução dos algoritmos para 2_3541687
 
